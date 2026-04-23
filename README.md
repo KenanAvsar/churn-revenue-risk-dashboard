@@ -31,7 +31,7 @@ Detailed breakdowns across multiple dimensions:
 - Opportunity score analysis  
 - Category-based performance  
 
-![Deep Analysis](deep_analysis.png)
+![Deep Analysis](images/deep_analysis.png)
 
 ---
 
@@ -44,7 +44,7 @@ Based on the insights, a structured action plan was created:
 - Target high-risk users with personalized campaigns  
 - Focus on high-potential categories  
 
-![Action Plan](action_plan.png)
+![Action Plan](images/action_plan.png)
 
 ---
 
