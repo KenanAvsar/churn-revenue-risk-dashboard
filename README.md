@@ -78,10 +78,8 @@ Based on the insights, a structured action plan was created:
 ## 📁 Project Structure
 
 /project-files
-├── churn_dashboard.pbix
-├── overview.png
-├── deep_analysis.png
-├── action_plan.png
+├── report/churn_dashboard.pbix
+├── images/overview.png, deep_analysis.png, action_plan.png
 
 
 ---
