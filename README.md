@@ -17,7 +17,7 @@ The dashboard provides a comprehensive view of:
 
 ## 📸 Dashboard Overview
 
-![Overview](overview.png)
+![Overview](images/overview.png)
 
 ---
 
